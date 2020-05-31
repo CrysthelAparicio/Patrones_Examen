@@ -12,7 +12,7 @@ _Cada Patron tiene su ejemplo en un caso de la vida real._
 _Solo necesitas Java, para compilarlo usa:_
 
 ```
-Javac main.java
+Javac E_(nombrePatron).java
 Java main
 ```
 
